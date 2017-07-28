@@ -5,8 +5,7 @@ React Native SectionList 使用Demo简易版通讯录
 
 ----------
 截图：
-
-
+![image](https://raw.githubusercontent.com/vipstone/react-nation-sectionlist/master/Image/SectionList.png)
 
 # 运行步骤： #
 
@@ -15,4 +14,7 @@ React Native SectionList 使用Demo简易版通讯录
 1. react-native run-android
 
 
-----------
+
+
+
+
